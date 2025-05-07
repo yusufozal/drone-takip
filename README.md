@@ -1,0 +1,2 @@
+# drone-takip
+model deneme
